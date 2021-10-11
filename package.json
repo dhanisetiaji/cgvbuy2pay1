@@ -1,0 +1,33 @@
+{
+  "name": "cgv",
+  "version": "1.0.0",
+  "description": "cgv buy 2 pay 1",
+  "main": "auto.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "delay": "^5.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanisetiaji/cgvbuy2pay1.git"
+  },
+  "keywords": [
+    "cgv"
+  ],
+  "author": "dhani setiaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanisetiaji/cgvbuy2pay1/issues"
+  },
+  "homepage": "https://github.com/dhanisetiaji/cgvbuy2pay1#readme"
+}
